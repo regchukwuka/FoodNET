@@ -28,3 +28,6 @@ A total of 20 different Food cousines were arranged namely:
 
 Each of this data array contained over 150 images and a total of over 3000 images with size of 700+MB. The images are hosted online on my private server and are available for public use on request with a little token.
 The model got an accuracy of 82%
+
+
+Update: the link contained herein is now broken due to server cost.
