@@ -30,4 +30,4 @@ Each of this data array contained over 150 images and a total of over 3000 image
 The model got an accuracy of 82%
 
 
-Update: the link contained herein is now broken due to server cost.
+2021 Update: the link contained herein is now broken due to server cost. However, you can send me a mail (editorial@regisnotes.com) and I will share you a link to download the dataset, the notebook file, and how to set it up on render.com.
